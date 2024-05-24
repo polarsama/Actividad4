@@ -64,7 +64,8 @@ p {
 	margin: 0;
 	font-size:14px;
 }
-img{	border:none;max-width:100%; height:auto;}
+/* img{border:none;max-width:100%; height:auto;} */
+
 ul{
 	padding: 0;
     margin: 0;
@@ -128,7 +129,7 @@ html,body{
 	color: #888;
 }
 .header-left li :hover {
-	color: #70d8b5;
+	color: #9470d8;
 }/* header-left  */
 
 /* header-right */
@@ -152,7 +153,7 @@ html,body{
 	
 }
 .header-right li a:hover{
-	color:#70d5d8;
+	color:#7a70d8;
 }
 .reg a {
     margin-right: 5px;
@@ -206,12 +207,12 @@ html,body{
 .wrapper-sticky{
 	position: relative;
 	display: inline-block;
-	background: rgb(112, 216, 181);
+	background: rgb(140, 112, 216);
 }
 
 /* sticky */
 .sticky{
-	background: rgb(112, 216, 207);
+	background: rgb(112, 119, 216);
 	padding: 10px 0px 0px;
 	height:80px;
 	color: #fff;
@@ -364,7 +365,7 @@ html,body{
 	display: inline-block;
     background: #f5f5fb;
     padding: 17px 50px;
-    color: #49af68;
+    color: #5849af;
     border: 1px solid #f5f5fb;
 	font-size:16px;
 	font-weight:600;
@@ -685,7 +686,7 @@ a.service-btn,
 a:active.service-btn,
 a:hover.service-btn,
 a:focus.service-btn{
-	color: #7370d8;
+	color: #70d8b5;
     font-size:16px;
 	font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -694,7 +695,7 @@ a:focus.service-btn{
 }/*.service-txt*/
 
 .service-single:hover{
-	box-shadow:0 5px 20px rgba(112,134,230,.2);
+	box-shadow:0 5px 20px rgba(112, 230, 220, 0.2);
 	opacity: 1;
 }
 
