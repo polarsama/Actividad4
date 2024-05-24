@@ -1,10 +1,4 @@
 /*==================================
-* Author        : "ThemeSine"
-* Template Name : Zombiz
-* Version       : 1.0
-==================================== */
-
-/*==================================
 
 font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;
@@ -134,7 +128,7 @@ html,body{
 	color: #888;
 }
 .header-left li :hover {
-	color: #7370d8;
+	color: #70d8b5;
 }/* header-left  */
 
 /* header-right */
@@ -158,7 +152,7 @@ html,body{
 	
 }
 .header-right li a:hover{
-	color:#7370d8;
+	color:#70d5d8;
 }
 .reg a {
     margin-right: 5px;
@@ -212,12 +206,12 @@ html,body{
 .wrapper-sticky{
 	position: relative;
 	display: inline-block;
-	background: rgba(115,112,216,1);
+	background: rgb(112, 216, 181);
 }
 
 /* sticky */
 .sticky{
-	background: rgba(115,112,216,1);
+	background: rgb(112, 216, 207);
 	padding: 10px 0px 0px;
 	height:80px;
 	color: #fff;
@@ -370,7 +364,7 @@ html,body{
 	display: inline-block;
     background: #f5f5fb;
     padding: 17px 50px;
-    color: #5549af;
+    color: #49af68;
     border: 1px solid #f5f5fb;
 	font-size:16px;
 	font-weight:600;
